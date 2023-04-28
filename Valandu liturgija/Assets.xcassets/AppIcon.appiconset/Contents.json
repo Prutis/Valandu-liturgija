@@ -72,6 +72,12 @@
       "scale" : "1x",
       "size" : "1206x120"
     },
+           {
+      "filename" : "Icon-120.png",
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "size" : "1206x120"
+    },
     {
       "filename" : "152.png",
       "idiom" : "ipad",
