@@ -1,0 +1,407 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 53;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CD0F05742764EC4A0099FCDF /* Media.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD0F05732764EC4A0099FCDF /* Media.xcassets */; };
+		CD13B17C25ED1EE00006307E /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD13B17B25ED1EE00006307E /* WebView.swift */; };
+		CD161265277B4E5A00D36B97 /* Iconos in Resources */ = {isa = PBXBuildFile; fileRef = CD161264277B4E5A00D36B97 /* Iconos */; };
+		CD28C9CD25DE898B00EB9445 /* Menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD28C9CC25DE898B00EB9445 /* Menu.swift */; };
+		CD36E3C925D6CFEF00E3A334 /* NetworkExtension.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD36E3C825D6CFEF00E3A334 /* NetworkExtension.framework */; };
+		CD59F36A2657CB5600936330 /* Liturginis.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD59F3692657CB5600936330 /* Liturginis.swift */; };
+		CD667FE525D955DE00C154B8 /* Nustatymai.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD667FE425D955DE00C154B8 /* Nustatymai.swift */; };
+		CD66B8DB25D2C9D300753261 /* Valandu_liturgijaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD66B8DA25D2C9D300753261 /* Valandu_liturgijaApp.swift */; };
+		CD66B8DD25D2C9D300753261 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD66B8DC25D2C9D300753261 /* ContentView.swift */; };
+		CD66B8E225D2C9D500753261 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD66B8E125D2C9D500753261 /* Preview Assets.xcassets */; };
+		CD6818E625D484A10005049C /* Maldos.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6818E525D484A10005049C /* Maldos.swift */; };
+		CD698BB325F0DEDB00ACCA67 /* Duomenys.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD698BB225F0DEDB00ACCA67 /* Duomenys.swift */; };
+		CD6C74CC25F8EA8200873DDA /* Kalendorius.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD6C74CB25F8EA8200873DDA /* Kalendorius.swift */; };
+		CD7EC8B82606E5D30007DAC4 /* naktines in Resources */ = {isa = PBXBuildFile; fileRef = CD7EC8B72606E5D20007DAC4 /* naktines */; };
+		CD8088802601FD4B00300AAC /* Formavimas.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD80887F2601FD4B00300AAC /* Formavimas.swift */; };
+		CD8F0B672600F1C00005B49F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD8F0B662600F1C00005B49F /* Assets.xcassets */; };
+		CDDEA02825D2CAF1009D58F9 /* tekstai in Resources */ = {isa = PBXBuildFile; fileRef = CDDEA02725D2CAF1009D58F9 /* tekstai */; };
+		CDE685D225DA9F57006049B2 /* Apie.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDE685D125DA9F57006049B2 /* Apie.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		CD0F05732764EC4A0099FCDF /* Media.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Media.xcassets; sourceTree = "<group>"; };
+		CD13B17B25ED1EE00006307E /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
+		CD161264277B4E5A00D36B97 /* Iconos */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Iconos; sourceTree = "<group>"; };
+		CD28C9CC25DE898B00EB9445 /* Menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Menu.swift; sourceTree = "<group>"; };
+		CD36E3C825D6CFEF00E3A334 /* NetworkExtension.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NetworkExtension.framework; path = System/Library/Frameworks/NetworkExtension.framework; sourceTree = SDKROOT; };
+		CD59F3692657CB5600936330 /* Liturginis.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Liturginis.swift; sourceTree = "<group>"; };
+		CD667FE425D955DE00C154B8 /* Nustatymai.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nustatymai.swift; sourceTree = "<group>"; };
+		CD66B8D725D2C9D300753261 /* Valandu liturgija.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Valandu liturgija.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD66B8DA25D2C9D300753261 /* Valandu_liturgijaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Valandu_liturgijaApp.swift; sourceTree = "<group>"; };
+		CD66B8DC25D2C9D300753261 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		CD66B8E125D2C9D500753261 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CD66B8E325D2C9D500753261 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD6818E525D484A10005049C /* Maldos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Maldos.swift; sourceTree = "<group>"; };
+		CD698BB225F0DEDB00ACCA67 /* Duomenys.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Duomenys.swift; sourceTree = "<group>"; };
+		CD6C74CB25F8EA8200873DDA /* Kalendorius.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Kalendorius.swift; sourceTree = "<group>"; };
+		CD7EC8B72606E5D20007DAC4 /* naktines */ = {isa = PBXFileReference; lastKnownFileType = folder; path = naktines; sourceTree = "<group>"; };
+		CD80887F2601FD4B00300AAC /* Formavimas.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Formavimas.swift; sourceTree = "<group>"; };
+		CD823ABC25F35D2B00A0450C /* libsqlite3.0.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.0.tbd; path = usr/lib/libsqlite3.0.tbd; sourceTree = SDKROOT; };
+		CD823ABD25F35D4100A0450C /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
+		CD8F0B662600F1C00005B49F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CDDEA02725D2CAF1009D58F9 /* tekstai */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tekstai; sourceTree = "<group>"; };
+		CDE685D125DA9F57006049B2 /* Apie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apie.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CD66B8D425D2C9D300753261 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD36E3C925D6CFEF00E3A334 /* NetworkExtension.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CD36E3C725D6CFEF00E3A334 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CD823ABD25F35D4100A0450C /* libsqlite3.tbd */,
+				CD823ABC25F35D2B00A0450C /* libsqlite3.0.tbd */,
+				CD36E3C825D6CFEF00E3A334 /* NetworkExtension.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		CD66B8CE25D2C9D300753261 = {
+			isa = PBXGroup;
+			children = (
+				CD66B8D925D2C9D300753261 /* Valandu liturgija */,
+				CD66B8D825D2C9D300753261 /* Products */,
+				CD36E3C725D6CFEF00E3A334 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		CD66B8D825D2C9D300753261 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CD66B8D725D2C9D300753261 /* Valandu liturgija.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CD66B8D925D2C9D300753261 /* Valandu liturgija */ = {
+			isa = PBXGroup;
+			children = (
+				CD161264277B4E5A00D36B97 /* Iconos */,
+				CD7EC8B72606E5D20007DAC4 /* naktines */,
+				CD66B8DA25D2C9D300753261 /* Valandu_liturgijaApp.swift */,
+				CD66B8DC25D2C9D300753261 /* ContentView.swift */,
+				CD28C9CC25DE898B00EB9445 /* Menu.swift */,
+				CD6C74CB25F8EA8200873DDA /* Kalendorius.swift */,
+				CD80887F2601FD4B00300AAC /* Formavimas.swift */,
+				CD698BB225F0DEDB00ACCA67 /* Duomenys.swift */,
+				CD6818E525D484A10005049C /* Maldos.swift */,
+				CD13B17B25ED1EE00006307E /* WebView.swift */,
+				CD59F3692657CB5600936330 /* Liturginis.swift */,
+				CD667FE425D955DE00C154B8 /* Nustatymai.swift */,
+				CDE685D125DA9F57006049B2 /* Apie.swift */,
+				CD8F0B662600F1C00005B49F /* Assets.xcassets */,
+				CD0F05732764EC4A0099FCDF /* Media.xcassets */,
+				CDDEA02725D2CAF1009D58F9 /* tekstai */,
+				CD66B8E325D2C9D500753261 /* Info.plist */,
+				CD66B8E025D2C9D500753261 /* Preview Content */,
+			);
+			path = "Valandu liturgija";
+			sourceTree = "<group>";
+		};
+		CD66B8E025D2C9D500753261 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				CD66B8E125D2C9D500753261 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CD66B8D625D2C9D300753261 /* Valandu liturgija */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CD66B8E625D2C9D500753261 /* Build configuration list for PBXNativeTarget "Valandu liturgija" */;
+			buildPhases = (
+				CD66B8D325D2C9D300753261 /* Sources */,
+				CD66B8D425D2C9D300753261 /* Frameworks */,
+				CD66B8D525D2C9D300753261 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Valandu liturgija";
+			productName = "Valandu liturgija";
+			productReference = CD66B8D725D2C9D300753261 /* Valandu liturgija.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CD66B8CF25D2C9D300753261 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1240;
+				TargetAttributes = {
+					CD66B8D625D2C9D300753261 = {
+						CreatedOnToolsVersion = 12.4;
+					};
+				};
+			};
+			buildConfigurationList = CD66B8D225D2C9D300753261 /* Build configuration list for PBXProject "Valandu liturgija" */;
+			compatibilityVersion = "Xcode 11.4";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CD66B8CE25D2C9D300753261;
+			productRefGroup = CD66B8D825D2C9D300753261 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CD66B8D625D2C9D300753261 /* Valandu liturgija */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CD66B8D525D2C9D300753261 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CDDEA02825D2CAF1009D58F9 /* tekstai in Resources */,
+				CD161265277B4E5A00D36B97 /* Iconos in Resources */,
+				CD7EC8B82606E5D30007DAC4 /* naktines in Resources */,
+				CD66B8E225D2C9D500753261 /* Preview Assets.xcassets in Resources */,
+				CD0F05742764EC4A0099FCDF /* Media.xcassets in Resources */,
+				CD8F0B672600F1C00005B49F /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CD66B8D325D2C9D300753261 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CDE685D225DA9F57006049B2 /* Apie.swift in Sources */,
+				CD13B17C25ED1EE00006307E /* WebView.swift in Sources */,
+				CD8088802601FD4B00300AAC /* Formavimas.swift in Sources */,
+				CD66B8DD25D2C9D300753261 /* ContentView.swift in Sources */,
+				CD28C9CD25DE898B00EB9445 /* Menu.swift in Sources */,
+				CD6C74CC25F8EA8200873DDA /* Kalendorius.swift in Sources */,
+				CD6818E625D484A10005049C /* Maldos.swift in Sources */,
+				CD698BB325F0DEDB00ACCA67 /* Duomenys.swift in Sources */,
+				CD66B8DB25D2C9D300753261 /* Valandu_liturgijaApp.swift in Sources */,
+				CD59F36A2657CB5600936330 /* Liturginis.swift in Sources */,
+				CD667FE525D955DE00C154B8 /* Nustatymai.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		CD66B8E425D2C9D500753261 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CD66B8E525D2C9D500753261 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CD66B8E725D2C9D500753261 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Valandu liturgija/Valandu liturgija.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 94;
+				DEVELOPMENT_ASSET_PATHS = "\"Valandu liturgija/Preview Content\"";
+				DEVELOPMENT_TEAM = 4YU7GT3QN6;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "Valandu liturgija/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.7.9;
+				PRODUCT_BUNDLE_IDENTIFIER = lt.katalikai.ValanduLiturgija;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CD66B8E825D2C9D500753261 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Valandu liturgija/Valandu liturgija.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 94;
+				DEVELOPMENT_ASSET_PATHS = "\"Valandu liturgija/Preview Content\"";
+				DEVELOPMENT_TEAM = 4YU7GT3QN6;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "Valandu liturgija/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.7.9;
+				PRODUCT_BUNDLE_IDENTIFIER = lt.katalikai.ValanduLiturgija;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CD66B8D225D2C9D300753261 /* Build configuration list for PBXProject "Valandu liturgija" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD66B8E425D2C9D500753261 /* Debug */,
+				CD66B8E525D2C9D500753261 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CD66B8E625D2C9D500753261 /* Build configuration list for PBXNativeTarget "Valandu liturgija" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD66B8E725D2C9D500753261 /* Debug */,
+				CD66B8E825D2C9D500753261 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CD66B8CF25D2C9D300753261 /* Project object */;
+}

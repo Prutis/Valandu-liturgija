@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Kalendorius.init(dataf:):Kalendorius.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sapkat">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Formavimas.formavimas():Formavimas.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "iskk">
+            </PersistentString>
+            <PersistentString
+               value = "indek[&quot;IR&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #2 in closure #1 in closure #1 in Kalendorius.body.getter:Kalendorius.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Maldos.init(mm:):Maldos.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sapkat">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Kalendorius.liturginis():Kalendorius.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pnr">
+            </PersistentString>
+            <PersistentString
+               value = "sapkat">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #1 in closure #1 in Calendar.body.getter:Calendar.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lsk">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Kalendorius.setDateString():Kalendorius.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ausrin">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Calendar.liturginis():Calendar.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Kalendorius.sapka():Kalendorius.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pnr">
+            </PersistentString>
+            <PersistentString
+               value = "sapkat">
+            </PersistentString>
+            <PersistentString
+               value = "selection">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
